@@ -36,7 +36,7 @@
     "rsk-contract-parser": "git+https://github.com/rsksmart/rsk-contract-parser.git",
     "rsk-openapi-ui": "git+https://git@github.com/rsksmart/rsk-openapi-ui.git",
     "rsk-utils": "git+https://github.com/rsksmart/rsk-utils.git",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
